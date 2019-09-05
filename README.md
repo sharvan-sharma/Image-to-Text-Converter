@@ -1,5 +1,5 @@
 # Image-to-Text-Converter
-This repository contains some python programs which convert textual data into image format and then that image is converted back to text,Basically its the new way of encrypting data.
+This repository contains some python programs which convert textual data into image format and then that image is converted back to text,Basically its the new way to represent the data while sending or we can use it with RSA to encrypt data.
 
 ## ASCII Converter
 ### ASCII text to image converter
