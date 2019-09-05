@@ -1,0 +1,1 @@
+It is compatible with prototype2.2 of image to text converter.
